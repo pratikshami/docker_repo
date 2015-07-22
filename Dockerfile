@@ -1,4 +1,4 @@
-FROM www.cybage-docker-registry.com:9080/centos 
+FROM www.cybage-docker-registry.com:9080/ubuntu
 
 MAINTAINER pratiksha misal <pratikshami@cybage.com>
 
